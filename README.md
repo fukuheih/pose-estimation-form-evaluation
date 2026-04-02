@@ -15,6 +15,7 @@ To adress variations in filming conditions, the project utilizes scale normaliza
 
 ## Features
 - Bottom frame detection
+- Tracking joint trajectories
 - Form evaluation
 - Scale normalization
 
