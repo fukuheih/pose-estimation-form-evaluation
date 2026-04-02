@@ -15,7 +15,7 @@ This project evaluates squat form using pose estimation.
 
 ## Tech Stack
 - Python
-- YOLO Pose(Ultralytics)
+- YOLO Pose (Ultralytics)
 - OpenCV
 - NumPy
 - Matplotlib
