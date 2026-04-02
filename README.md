@@ -1,4 +1,4 @@
-# Squat Form Evaluation Using Pose Estimation
+# Training Form Evaluation Using Pose Estimation
 
 ## Overview
 This project evaluates training form using pose estimation.
