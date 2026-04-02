@@ -14,10 +14,10 @@ To adress variations in filming conditions, the project utilizes scale normaliza
 - OpenCV
 
 ## Features
-- Bottom frame detection
-- Tracking joint trajectories
-- Form evaluation
-- Scale normalization
+- Automatic bottom frame detection of squat motion  
+- Tracking joint trajectories using pose estimation  
+- Quantitative form evaluation based on biomechanical metrics  
+- Scale normalization for robust comparison across subjects
 
 ## Tech Stack
 - Python
